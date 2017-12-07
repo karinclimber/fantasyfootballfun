@@ -80,7 +80,7 @@ body {
     }
     .input-group {
         width: 100% !important;
-        margin: auto;
+        margin-top: 10px;
         align-content: center;
       }
 
@@ -118,7 +118,7 @@ body {
     text-align: center;
   }
   .input-group {
-    margin: auto;
+    margin-top: 10px;
     width: 100% !important;
     align-content: center;
   }
@@ -156,7 +156,7 @@ body {
 
   .input-group {
     width: 90% !important;
-    margin: auto;
+    margin-top: 10px;
     align-content: center;
   }
       
@@ -172,4 +172,3 @@ body {
 
   } 
 }
-  
