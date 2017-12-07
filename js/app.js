@@ -6,7 +6,7 @@ $scope.sortType     = 'Team';// set the default sort type
 $scope.sortReverse  = false;  // set the default sort order
 $scope.searchNumber   = '';     // set the default search/filter term
 
-// create the list of sushi rolls 
+// create the list of players
 $scope.players = [
     {
       ID: 1,
