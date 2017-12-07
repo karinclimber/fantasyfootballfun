@@ -67,7 +67,7 @@ body {
     font-weight: 130;
   }
   
-  .form-group {
+  .input-group {
     width: 50%;
     align-content: center;
   }
@@ -80,14 +80,12 @@ body {
       background-repeat: repeat;
       text-align: center;
     }
-    .form-group {
+    .input-group {
         width: 100%;
         margin: auto;
         align-content: center;
       }
-   input {
-     width: 100%;
-}
+
    table {
       margin: auto;
       width: 60%;
@@ -121,14 +119,12 @@ body {
   body {
     text-align: center;
   }
-  .form-group {
+  .input-group {
     margin: auto;
     width: 100%;
     align-content: center;
   }
-   input {
-     width: 100%;
-}
+ 
   td {
     font-size: 16px;
     padding: 4px 4px 4px 4px!important;
@@ -160,14 +156,12 @@ body {
     text-align: center;
   }
 
-  .form-group {
+  .input-group {
     width: 90%;
     margin: auto;
     align-content: center;
   }
-  input {
-     width: 100%;
-}
+      
  table {
     width: 90%;
   }
