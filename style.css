@@ -68,12 +68,10 @@ body {
   }
   
   .input-group {
-    width: 50%;
+    width: 50% !important;
     align-content: center;
   }
- input {
-     width: 60%;
-}
+
   
   @media (max-width: 575px) { 
     body {
@@ -81,7 +79,7 @@ body {
       text-align: center;
     }
     .input-group {
-        width: 100%;
+        width: 100% !important;
         margin: auto;
         align-content: center;
       }
@@ -121,7 +119,7 @@ body {
   }
   .input-group {
     margin: auto;
-    width: 100%;
+    width: 100% !important;
     align-content: center;
   }
  
@@ -157,7 +155,7 @@ body {
   }
 
   .input-group {
-    width: 90%;
+    width: 90% !important;
     margin: auto;
     align-content: center;
   }
