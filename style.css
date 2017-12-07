@@ -80,7 +80,7 @@ body {
     }
     .form-group {
         width: 90%;
-        margin-top: 10px;
+        margin: auto;
         align-content: center;
       }
    table {
@@ -117,7 +117,7 @@ body {
     text-align: center;
   }
   .form-group {
-    margin: 10px;
+    margin: auto;
     width: 90%;
     align-content: center;
   }
